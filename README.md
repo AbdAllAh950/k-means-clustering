@@ -37,3 +37,6 @@ The PySpark implementation parallelizes the cluster assignment and centroid upda
    \]
 4. Plot results (e.g., using `matplotlib`).
 ---
+
+## 5. File Reference:
+The entire implementation, including dataset generation, non-parallel and parallel versions of K-Means clustering, benchmarking, and performance plotting, is contained in the k_means_project.py file. This script is self-contained and follows the project requirements.
