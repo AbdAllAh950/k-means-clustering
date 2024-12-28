@@ -64,6 +64,3 @@ kmeans-clustering/
 ## Notes
 - The code automatically generates the required dataset and plot.
 - Make sure PySpark is properly configured in your environment.
-
-## Contact
-For questions or feedback, please contact the course instructor or submit an issue in the project repository.
